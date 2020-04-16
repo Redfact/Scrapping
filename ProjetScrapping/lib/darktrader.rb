@@ -6,6 +6,7 @@
 	def get_crypto_name()
 	page = Nokogiri::HTML(open("https://coinmarketcap.com/all/views/all/"))
 	names  = page.xpath("//div/a[contains(@href,'currencies/')]/text()")
+		names =names.map { |e| e=e.text  }
 		return names
 	end
 
@@ -15,7 +16,7 @@
 	prices = []
 	i=0
 	priceswithvolume.each_with_index { |val,i|
-		if(i%2==0)then prices << val end 
+		if(i%2==0)then prices << val.text end 
 	}
 
 	return prices
@@ -29,7 +30,6 @@ def perform
 	get_crypto_hash.each{ |key,value|
 		puts "#{key} => #{value}"
 	}
-
 	
 end
 

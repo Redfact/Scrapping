@@ -32,6 +32,8 @@ def get_deputes_mails
 		mail = get_depute_email(el)
 		print "#{names[i]} => #{mail} \n"
 		mails<<mail
+		#Mettre cette ligne pour limiter les données à 20
+		if( i>20)then break end
 	end
 
 	return Hash[names.zip(mails)]

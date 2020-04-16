@@ -28,20 +28,16 @@ def get_all_townhall_emails()
 	urls = get_townhall_urls
 	names = get_townhall_names
 	mails = []
-	urls.each do |mail|
-		mails << get_townhall_email(mail)
+	urls.each_with_index do |mail,index|
+		ml = get_townhall_email(mail)
+		mails << ml
+		print "#{names[index]} : #{ml} \n"
 	end
 	return Hash[names.zip(mails)]
 end
 
 def perform
-	get_all_townhall_emails.each{ |key,value|
-		puts "#{key} => #{value}"
-	}
+	get_all_townhall_emails
 end
 
 perform
-
-
-
-
