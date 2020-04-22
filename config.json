@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "serialisationruby",
+  "private_key_id": "7edfc93d4fb096999df91feee2dd558bb8b2eda5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEugIBADANBgkqhkiG9w0BAQEFAASCBKQwggSgAgEAAoIBAQDITm2dCRaQStjq\n4WOiYhIQ4CNTkjs83075l9VXkgJJStFYyZgpIbC3sgUOpyeEAR6bIJeTRF9OKnHf\nHXRoSIbnvV859F8SkX12kVLuNgH5nkLWlTIQ+CaZwAAw3+3g5vzQ8exYL2gIgu3g\nhteVkY7VaHcqoZrORRTApW1I4ik+HYwg5J/8yQFL2cHJB+ZaszSVJwLITChVSDvj\ngeN7HrYfXn55xHZQrS/cle+jrjio9kctmVIgnT23qLOn9jNi3XVgAheNwHu/NHWp\nofSp7IJlZhds/tY49Q4phsqXTbIm1hprNz7SgcOVh5tyddoAMLEuUQFc7Pjj1PEd\nqhPtIv9HAgMBAAECgf9imyycuxgp/Ot14GBTTMt3AgDgvIKxWhwYbytlyVi8K22h\njX3puhVF+JNrai9H3QNTx4tGNzD1ioAH71Xe33UBEf90503M14kBePDc5BczO6os\n3zjKK+fXQiDqNXr4HJqNuNGP9bxHXY/Ok//bht9jC9OyYe2NuW8hYf1kQD2vkRWV\nIvkPf49PjVCK/KWOoLPLuR52Mefhy4bS1GG15zwWco+NnfpDmPQRCxbElSacoznh\nl61mX6GANfJYNMTgHTUK7nwqhvXRg5eU7YYqo6Z2O7xgITBIgOvgc5i5dcHE06K/\n4NHboSK8p/6j0t1bubmnWiaZ6V5IpFPX2vuWZwUCgYEA+EfAxmK4/3uBYj8WhI9G\nmdRN67/nk+NADaQr7Mk2CEgT+hTMaPyn4qyxkCo9/GuUlImcE8IU0fkswX+vfRVJ\nQ2JYKM9MKwHY1Uz/xqkqwRguWbwkHpSFv2RWKGvO9bBlIQ5dcGy1kYAELC42RuK0\nG58L99SdvAebixhO5VaOt+UCgYEAzojQqc57y8xBqcBrCd1PS/KTjb4X/V22epBt\n2j6wkPAU24owBcQa7E306UPxa812viBw3HUtMv2ln/TcQgyC8SRUVqWhivTuKmtn\n3sULGEXxN7uQ4Bgkk7Jr+pQGUjoa+fZKLIlZTohqYwetRzQZ0FT6UJLP6wng7fhv\nPE9nT7sCgYA8pBHioqQ6ymisnWobkH8W/XLWvPWL+npfmpSb7f1Dgo9WipPupJ9A\nzxtDcf3X1FLjAMVdUg8RxgF3dX9gVr2hNrj/proc2wOh/X+PfywRI53WjwxnZ7FP\nMOuWTdarzZy1uTN7TSH/2ruqKtNY9vA0uuEKdCTekyEblSFYBI8xPQKBgDRDWsod\nfiYsIdGa53svjYlicQRFPjzXIf4R3jqD8po6poyHg29yGH4DnB4LG2R0McAa5XRk\nEnP8y5SWmcX89IWg89aZQy+umzYQx9APfKc/y7KWvCp48YiOddSK8K6OFZV7RXnP\np9G/o2w73RVPkdiuKEmLXSHU9h5B56QTU8lRAoGABnOQYYbPkatEQkxLl0k8UPrj\nVqitBNlzlIDFOhBK6P0D3yRAPqkInqjm2RUpLbS0MdXn2Do2QL3p/Id61lLtglN/\nGec5OGG01SwzAA5/bdC9tjlMp1eq1l4jbGrokrvj4mJMmJO14+/potrSlqelsVcu\nRBuXUlHHbxjdxx/sHq0=\n-----END PRIVATE KEY-----\n",
+  "client_email": "ruby-621@serialisationruby.iam.gserviceaccount.com",
+  "client_id": "105601403709005277413",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ruby-621%40serialisationruby.iam.gserviceaccount.com"
+}
