@@ -32,7 +32,7 @@ GEM
       signet (~> 0.14)
     httpclient (2.8.3)
     jaro_winkler (1.5.4)
-    json (2.1.0)
+    json (2.3.0)
     jwt (2.2.1)
     memoist (0.16.2)
     method_source (1.0.0)
